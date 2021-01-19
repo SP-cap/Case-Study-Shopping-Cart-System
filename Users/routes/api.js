@@ -33,7 +33,7 @@ async function sendMail(user, callback) {
       secure: false, // true for 465, false for other ports
       auth: {
         user: 'sruthipandiath@gmail.com',
-        pass: '123'
+        pass: '123*'
       }
     });
   

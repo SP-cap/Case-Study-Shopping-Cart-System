@@ -37,7 +37,7 @@ async function sendMail(user, callback) {
   
     let mailOptions = {
       from: 'thriftitshopping@gmail.com', // sender address
-      to: 'sruthipandiath@gmail.com', // list of receivers
+      to: 'sruthipan@gmail.com', // list of receivers
       subject: "Order Confirmation -ThriftIt!!", // Subject line
       html: `<h1 style="font - family: verdana; max-width:500px; margin-left;background-color: rgb(25, 54, 92)">ThriftIt</h1><br>
       <h4 >Hey Sherry,</h4><br>
